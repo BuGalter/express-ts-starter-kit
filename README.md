@@ -50,4 +50,4 @@ Name - _Valery Yakubchik_
 
 ## Copyright
 
-Copyright © 2022 [BuGalter](https://bugalter.vercel.app/)
+Copyright © 2024 [BuGalter](https://bugalter.vercel.app/)
