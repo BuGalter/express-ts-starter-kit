@@ -24,7 +24,8 @@
     "forceConsistentCasingInFileNames": true, // Отследит регистрозависимые названия файлов
     "noFallthroughCasesInSwitch": true, // Отслеживает в switch, что такой case есть.
     "skipLibCheck": true, // Проверка только кода на который ссылается программа.
-    "allowJs": true // Разрешить импортировать файлы JavaScript в ваш проект, а не только файлы ts.
+    "allowJs": true, // Разрешить импортировать файлы JavaScript в ваш проект, а не только файлы ts.
+    "resolveJsonModule": true
   },
   "include": ["./src/**/*.ts"],
   "exclude": ["node_modules", "build", "buildcache"]

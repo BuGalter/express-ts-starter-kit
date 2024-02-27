@@ -29,3 +29,6 @@ build/
 
 # tsbuildinfo dir
 buildcache/
+
+#VSCode
+.vscode/

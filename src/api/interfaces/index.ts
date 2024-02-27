@@ -1,1 +1,1 @@
-export { IAppConfig } from './config';
+export { IAppConfig } from './api';
