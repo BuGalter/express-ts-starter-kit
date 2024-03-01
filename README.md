@@ -1,8 +1,26 @@
-# Название
+# ts-express-starter-kit
 
-Simple starter package for development Express + Typescript + Nodemon + ESlint + Prettier
+Starter kit for api on express, typescript
 
 ## Список основных технологий проекта
+
+Lang - **Typescript**
+
+Framework - **Express**
+
+Validation - **Joi**
+
+Logger - **Winston**
+
+Documentation - **Swagger**
+
+For development - **Nodemon**
+
+Safety - **Helmet**
+
+Linter - **ESLint**
+
+Style code - **Prettier**
 
 ## Структура проекта
 
@@ -21,22 +39,38 @@ following command in the terminal.
 In the terminal run:
 
 ```shell
-$npm install
-```
+ npm install
+ ```
+
+```shell
+ yarn install
+ ```
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run with npm:
 
-### `npm start:dev`
+```shell
+npm run start:dev
+```
 
-### `npm run build`
+```shell
+npm run build
+```
+
+In the project directory, you can run with yarn:
+
+```shell
+yarn start:dev
+```
+
+```shell
+ yarn build
+ ```
 
 ## CHANGELOG HISTORY
 
-[CHANGELOG](https://github.com/REPOSITORY_NAME/PROJECT_NAME/blob/develop/CHANGELOG.md)
-
-### link to changelog
+[CHANGELOG](https://github.com/BuGalter/express-ts-starter-kit/blob/master/CHANGELOG.md)
 
 ## Authors
 

@@ -1,7 +1,7 @@
 {
-  "name": "check-price-stores-api",
-  "version": "0.1.0",
-  "description": "API to search and compare prices in grocery stores",
+  "name": "ts-express-starter-kit",
+  "version": "1.0.0",
+  "description": "Starter kit for api on express, typescript",
   "private": true,
   "main": "main.js",
   "scripts": {
