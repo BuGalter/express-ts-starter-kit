@@ -1,7 +1,7 @@
 {
-  "name": "express-typescript-starter-kit",
-  "version": "1.0.0",
-  "description": "Starter kit for api on express and typescript with winston, swagger, joi",
+  "name": "check-price-stores-api",
+  "version": "0.1.0",
+  "description": "API to search and compare prices in grocery stores",
   "private": true,
   "main": "main.js",
   "scripts": {
@@ -34,10 +34,11 @@
     "typescript": "^4.7.4"
   },
   "dependencies": {
-    "@types/joi": "^17.2.3",
     "@types/swagger-ui-express": "^4.1.6",
+    "axios": "^1.6.7",
     "dotenv": "^16.4.5",
     "express": "^4.18.2",
+    "helmet": "^7.1.0",
     "joi": "^17.12.2",
     "swagger-ui-express": "^5.0.0",
     "winston": "^3.11.0"
